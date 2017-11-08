@@ -1,9 +1,5 @@
 # Java Style Guide
 
-## Naming
-
-On the whole, naming should follow Java standards.
-
 ### Packages
 
 Package names are all __lower-case__, multiple words concatenated together,
