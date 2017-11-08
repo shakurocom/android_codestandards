@@ -39,15 +39,15 @@ app
 │  ├─ payments
 │  │  ├─ PaymentsInteractor
 │  │  ├─ PaymentsInteractorImpl
-│  │  └─ CurrencyHandler (вспомогательный класс для PaymentsInteractor)
+│  │  └─ CurrencyHandler (helper class for PaymentsInteractor)
 │  └─ operations
 │     ├─ OperationsInteractor
 │     ├─ rubs
 │     │  ├─ OperationsInteractorRubs
-│     │  └─ RubsManager (вспомогательный класс для OperationsInteractorRubs)
+│     │  └─ RubsManager (helper class for OperationsInteractorRubs)
 │     └─ currency
 │        ├─ OperationsInteractorCurr
-│        └─ CurrencyManager (вспомогательный класс для OperationsInteractorCurr)
+│        └─ CurrencyManager (helper class for OperationsInteractorCurr)
 ├─ repositories
 │  ├─ payments
 │  │  ├─ PaymentsRepository
