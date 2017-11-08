@@ -2,7 +2,7 @@
 
 This is a common section for Java and Kotlin android projects. Please refer to [Java guideline](https://github.com/shakurocom/android_codestandards/blob/master/java/README.md) and [Kotlin guideline](https://github.com/shakurocom/android_codestandards/blob/master/kotlin/README.md) for more details.
 
-## 1 Project structure
+## Project structure
 The project should follow standard [Android project guidelines](https://developer.android.com/studio/projects/index.html)
 however in short:
 ```
@@ -13,7 +13,7 @@ root/
   └─ miscFiles.txt
 ```
 
-## 2 Applications packages structure
+## Applications packages structure
 
 The root structure should follow [clean architecture](https://github.com/AndroidArchitecture/AndroidArchitectureBook/blob/master/Intro.md) approach with separation of layers.
 
@@ -88,9 +88,9 @@ Structure above is not mandatory, for example you could combine layers by featur
 
 You can refer to [SkyLocker project](https://github.com/kengura/SkyLocker) as example.
 
-## 3 File naming
+## File naming
 
-### 3.1 Class files
+### Class files
 Class names should be written in [UpperCamelCase](http://en.wikipedia.org/wiki/CamelCase).
 
 For classes that extend an Android component, the name of the class should end with the name of the component; for example:
@@ -99,15 +99,15 @@ For classes that extend an Android component, the name of the class should end w
 * `ImageUploaderService`
 * `ChangePasswordDialog`
 
-### 3.1 Resources files
+### Resources files
 
 Resources file names are written in __lowercase_underscore__. e.g.
 * `ic_launcher`
 * `background_default`
 
-#### 3.1.1 Drawables
+#### Drawables
 
-##### 3.1.1.1 Icons
+##### Icons
 Icons should follow the naming scheme seen in [Material Icons](https://github.com/google/material-design-icons/) which
 follows the format `ic_<Name>_<Color>_<Size>`; the exception being launcher images which should be named `ic_launcher`.
 For example:
@@ -116,7 +116,7 @@ For example:
 * `ic_user_white_48dp.xml`
 
 
-##### 3.1.1.2 Selector States
+##### Selector States
 Assuming a selector state requires an image instead of an embedded shape, each images should be
 named based on the main selector (`button_order` in the example) with the states as a suffix. e.g.
 
@@ -129,7 +129,7 @@ named based on the main selector (`button_order` in the example) with the states
 | Selected     | `_selected`  | `button_order_selected.9.png`  |
 
 
-#### 3.1.2 Layout files
+#### Layout files
 Layout file names should be prefixed with the section the source code will be used by _without_ prefixing
 the Android component name. e.g.
 
@@ -141,7 +141,7 @@ the Android component name. e.g.
 | AdapterView item | `PersonViewHolder`     | `person.xml`          |
 
 
-#### 3.1.3 Menu files
+#### Menu files
 Menu file names should match the parent layout naming, they should _not_ include `menu` as they are already
 separated by the `R.menu.*` reference. e.g.
 
@@ -151,12 +151,12 @@ separated by the `R.menu.*` reference. e.g.
 | `person.xml`       | `person`       |
 
 
-## 4 XML rules
+## XML rules
 
-### 4.0 Indentation
+### Indentation
 Similarly to Java and Kotlin rules, indentation should be **4 characters**.
 
-### 4.1 Prefer self closing tags
+### Prefer self closing tags
 When possible self closing tags should be used. e.g.
 
 ```xml
@@ -175,10 +175,10 @@ When possible self closing tags should be used. e.g.
 </TextView>
 ```
 
-### 4.2 Resource naming
+### Resource naming
 Resources should follow __lowercase_underscore__ naming, the exception being Ids, Styles and Themes (described below)
 
-#### 4.2.1 IDs
+#### IDs
 IDs should have a suffix indicating the element or category type in  [LowerCamelCase](http://en.wikipedia.org/wiki/CamelCase). e.g.
 
 | Element              | Suffix              |
@@ -191,7 +191,7 @@ IDs should have a suffix indicating the element or category type in  [LowerCamel
 | `Context Menu`       | `personContextMenu` |
 
 
-#### 4.2.2 Strings
+#### Strings
 String names start with a prefix that identifies the section they belong to. For example `registration_email_hint`
  or `registration_name_hint`. If a string __doesn't belong__ to any section then a simple name should be used. e.g.
 
@@ -201,10 +201,10 @@ String names start with a prefix that identifies the section they belong to. For
 | `general_network_error` | `There was an unknown network error`    |
 
 
-#### 4.2.3 Styles and Themes
+#### Styles and Themes
 Unlike the rest of resources, style names are written in [UpperCamelCase](http://en.wikipedia.org/wiki/CamelCase).
 
-### 4.3 Attribute ordering
+### Attribute ordering
 Attributes should follow the auto ordering that Android Studio enforces; in general this is
 
 1. `id`
