@@ -135,7 +135,7 @@ public class MainActivity: Activity {
 }
 ```
 
-#### Line-wrapping strategies
+### Line-wrapping strategies
 There isn't an exact formula that explains how to line-wrap and quite often different solutions are valid. However
 there are a few rules that can be applied to common cases.
 
