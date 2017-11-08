@@ -19,6 +19,8 @@ Fields should be defined at the __top of the file__ and they should follow the n
 * constants `static final` are all caps (`MY_CONST`)
 * all other fields should follow [LowerCamelCase](http://en.wikipedia.org/wiki/CamelCase) conventions
 
+Do not use `m` prefixes for member variables and `s` prefixes for static variables! 
+
 Example:
 
 ```java
@@ -147,13 +149,13 @@ __Long parameters case__
 When a method has many parameters or its parameters are very long we should break the line after every comma `,`
 
 ```java
-loadPicture(context, "http://ribot.co.uk/images/sexyjoe.jpg", mImageViewProfilePicture, clickListener, "Title of the picture");
+loadPicture(context, "http://ribot.co.uk/images/sexyjoe.jpg", imageViewProfilePicture, clickListener, "Title of the picture");
 ```
 
 ```java
 loadPicture(context,
         "http://ribot.co.uk/images/sexyjoe.jpg",
-        mImageViewProfilePicture,
+        imageViewProfilePicture,
         clickListener,
         "Title of the picture");
 ```
