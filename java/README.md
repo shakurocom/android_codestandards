@@ -104,15 +104,15 @@ public class MainActivity extends Activity {
 
     private String title;
 
+    public static String getTag() {
+        return TAG;
+    }
+
     @Override
     public void onCreate() {
         //...
     }
     
-    public static String getTag() {
-        return TAG;
-    }
-
     public void setTitle(@Nullable String title) {
     	this.title = title;
     }
