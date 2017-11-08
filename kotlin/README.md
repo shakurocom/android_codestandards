@@ -2,7 +2,7 @@
 
 On the whole, you should follow [Google’s Android coding standards for source code in the Kotlin Programming Language](https://android.github.io/kotlin-guides/style.html).
 
-Some most important rules bellow.
+There are some most important rules bellow.
 
 ### Packages
 
