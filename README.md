@@ -1,6 +1,6 @@
-# Android style guideline common for Java and Kotlin
+# Android guideline common for Java and Kotlin
 
-This is a common section for Java and Kotlin guidelines.
+This is a common section for Java and Kotlin android projects. Please refer to [Java guideline](https://github.com/shakurocom/android_codestandards/blob/master/java/README.md) and [Kotlin guideline](https://github.com/shakurocom/android_codestandards/blob/master/kotlin/README.md) for more details.
 
 ## 1 Project structure
 The project should follow standard [Android project guidelines](https://developer.android.com/studio/projects/index.html)
