@@ -47,7 +47,7 @@ Refer to [Comparison of free and open-source software licenses](https://en.wikip
 
 ## How to use most common licenses
 
-In general licenses share at least one point, and that is "Keep the copyright notice". The least thing you can do - include copyright notice to documentation or EULA. For example: "This software uses <library name> - see library-license.txt".
+In general licenses share at least one point, and that is "Keep the copyright notice". The least thing you can do - include copyright notice to documentation or EULA. For example: "This software uses `library name` - see library-license.txt".
   
 ### MIT license
 
