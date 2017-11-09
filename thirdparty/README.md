@@ -35,11 +35,14 @@ Examples of copyleft licenses: [GPL Licenses](https://en.wikipedia.org/wiki/GNU_
 * If you don't modify it - you have to provide just link to the library sources. It looks like Permissive license.
 * If you modify it - you have to provide sources for modified files (not whole project). It looks like weak Copyleft license.
 
+## License compatibility
+
+![License compatibility](https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png)
+
+License compatibility between common software licences: the vector arrows denote a one directional compatibility, therefore better compatibility on the left side ("permissive licenses") than on the right side ("copyleft licences")
+
 ## Comparison of free and open-source software licenses
 
 Refer to [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) to find out if the license compatible with your project.
 
-## License compatibility
-
-![License compatibility](https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png)
 
