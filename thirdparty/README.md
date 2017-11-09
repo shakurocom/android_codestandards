@@ -12,7 +12,7 @@ Public domain equivalent license are licenses that grant public-domain-like righ
 
 A permissive software license, sometimes also called BSD-like or BSD-style license, is a free software licence with minimal requirements about how the software can be redistributed. Such licenses requiring little more than attributing the original portions of the licensed code to the original developers in your own code and/or documentation.
 
-Examples: [MIT Licence](https://en.wikipedia.org/wiki/MIT_License), [BSD licences](https://en.wikipedia.org/wiki/BSD_licenses), [Apple Public Source License](https://en.wikipedia.org/wiki/Apple_Public_Source_License) and the [Apache licence](https://en.wikipedia.org/wiki/Apache_License).
+Examples of permissive licenses: [MIT License](https://en.wikipedia.org/wiki/MIT_License), [BSD licences](https://en.wikipedia.org/wiki/BSD_licenses), [Apple Public Source License](https://en.wikipedia.org/wiki/Apple_Public_Source_License) and the [Apache licence](https://en.wikipedia.org/wiki/Apache_License).
 
 ## Copyleft software license
 
@@ -22,9 +22,18 @@ Copyleft licenses for software require that information necessary for reproducin
 
 What does it mean in practice? 
 
-* If you use copyleft software in your internal application and don't distribute it you have no obligation to do anything.
+If you do distribute your application, and you used some Copyleft library as part of your application (even if only linking at run-time to a library) - and even if you do not charge money - and even if you do not change that library in any way - then you MUST make the source of your application available for end users.
 
+Making source available does not mean that users can download it automatically. It might be that you must get a written request and then you send sources. You can not escape the obligation to make your own source code available to end users.
 
+Examples of copyleft licenses: [GPL Licenses](https://en.wikipedia.org/wiki/GNU_General_Public_License), [IBM Public License](https://en.wikipedia.org/wiki/IBM_Public_License)
+
+## Hybrids (combination of Permissive and Copyleft licenses)
+
+[MPL v2.0 (Mozilla Public License Version 2.0)](https://www.mozilla.org/en-US/MPL/2.0/) is a copyleft license that is easy to comply with. You can combine the MPL v2.0 software with proprietary code.
+
+* If you don't modify it - you have to provide just link to the library sources. It looks like Permissive license.
+* If you modify it - you have to provide sources for modified files (not whole project). It looks like weak Copyleft license.
 
 ## Comparison of free and open-source software licenses
 
@@ -34,4 +43,3 @@ Refer to [Comparison of free and open-source software licenses](https://en.wikip
 
 ![License compatibility](https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png)
 
-This is image can be used for undenstanding licenses strictness.
