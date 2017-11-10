@@ -32,7 +32,7 @@ In general licenses share at least one point, and that is "Keep the copyright no
 
 * Keep the copyright notice
 * Provide link to the source for the MPLed code
-* If you modify code you must make available the MPL-licensed portions of the source cod, and inform the recipients how they can obtain such source code 
+* If you modify code you must make available the MPL-licensed portions of the source cod, and inform the recipients how they can obtain it.
 
 # Theory
 
