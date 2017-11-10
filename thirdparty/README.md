@@ -1,4 +1,40 @@
-# What You Need to Know About Open Source Licenses
+# How to use most common licenses
+
+In general licenses share at least one point, and that is "Keep the copyright notice". The least thing you can do - include copyright notice to documentation or EULA. For example: "This software uses `library name` - see library-license.txt".
+  
+## MIT license
+
+* Keep the copyright notice
+* You are free to modify, redistribute and even sublicense the code under another license
+* The original author isn’t liable for any damage resulting from his code
+
+## BSD License
+
+* Keep the copyright notice
+* You are free to use, redistribute and license the code under another license
+
+## Apache 2.0 License
+
+* Keep the copyright notice
+* Your software has to contain a copy of the Apache 2 license
+* You are free to use, modify, distribute and redistribute the software
+* If you modify code you have to mention your modifications particularly
+* If there is a text file called NOTICE: Read it! It contains further information about specific parts of the license and the software’s purpose
+* The NOTICE file has to be included in your software release too
+
+## GPL License
+
+* Keep the licensing header
+* Your software release has to be GPL licensed too
+* If anyone requests it, you have to make the sources available
+
+## MPL 2.0
+
+* Keep the copyright notice
+* Provide link to the source for the MPLed code
+* If you modify code you must make available the MPL-licensed portions of the source cod, and inform the recipients how they can obtain such source code 
+
+# Theory
 
 ## Public Domain
 
@@ -45,32 +81,3 @@ License compatibility between common software licences: the vector arrows denote
 
 Refer to [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) to find out if the license compatible with your project.
 
-## How to use most common licenses
-
-In general licenses share at least one point, and that is "Keep the copyright notice". The least thing you can do - include copyright notice to documentation or EULA. For example: "This software uses `library name` - see library-license.txt".
-  
-### MIT license
-
-* Keep the copyright notice
-* You are free to modify, redistribute and even sublicense the code under another license
-* The original author isn’t liable for any damage resulting from his code
-
-### BSD License
-
-* Keep the copyright notice
-* You are free to use, redistribute and license the code under another license
-
-### Apache 2.0 License
-
-* Keep the copyright notice
-* Your software has to contain a copy of the Apache 2 license
-* You are free to use, modify, distribute and redistribute the software
-* If you modify code you have to mention your modifications particularly
-* If there is a text file called NOTICE: Read it! It contains further information about specific parts of the license and the software’s purpose
-* The NOTICE file has to be included in your software release too
-
-### GPL License
-
-* Keep the licensing header
-* Your software release has to be GPL licensed too
-* If anyone requests it, you have to make the sources available
