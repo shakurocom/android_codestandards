@@ -4,7 +4,7 @@ This is a common section for Java and Kotlin android projects. Please refer to [
 
 ## Third party libraries
 
-Before usage of any third party library you have to check it license. Refer to [open source licenses guide](https://github.com/shakurocom/android_codestandards/tree/master/thirdparty).
+Before usage of any third party library you have to check its license. Refer to [open source licenses guide](https://github.com/shakurocom/android_codestandards/tree/master/thirdparty).
 
 ## Project structure
 The project should follow standard [Android project guidelines](https://developer.android.com/studio/projects/index.html)
