@@ -137,12 +137,12 @@ named based on the main selector (`button_order` in the example) with the states
 Layout file names should be prefixed with the section the source code will be used by _without_ prefixing
 the Android component name. e.g.
 
-| Component        | Class Name             | Layout Name           |
-| ---------------- | ---------------------- | --------------------- |
-| Activity         | `LoginActivity`        | `login.xml`           |
-| Fragment         | `SignUpFragment`       | `sign_up.xml`         |
-| Dialog           | `ChangePasswordDialog` | `change_password.xml` |
-| AdapterView item | `PersonViewHolder`     | `person.xml`          |
+| Component        | Class Name             | Layout Name                  |
+| ---------------- | ---------------------- | ---------------------------- |
+| Activity         | `LoginActivity`        | `activity_login.xml`         |
+| Fragment         | `SignUpFragment`       | `fragment_sign_up.xml`       |
+| Dialog           | `ChangePasswordDialog` | `dialog_change_password.xml` |
+| AdapterView item | `PersonViewHolder`     | `adapter_view_person.xml`    |
 
 
 #### Menu files
