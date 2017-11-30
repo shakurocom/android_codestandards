@@ -1,4 +1,5 @@
 # Android guideline common for Java and Kotlin
+###### Version 1.0.0
 
 This is a common section for Java and Kotlin android projects. Please refer to [Java guideline](https://github.com/shakurocom/android_codestandards/blob/master/java/README.md) and [Kotlin guideline](https://github.com/shakurocom/android_codestandards/blob/master/kotlin/README.md) for more details.
 
