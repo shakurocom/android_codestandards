@@ -1,12 +1,12 @@
 # Guides
 
-[Googlesamples - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
+- Googlesamples [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
 
-[Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
+- [Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
 
-[awesome-android-ui - List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+- awesome-android-ui [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
-[How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
+- [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
 
 
 # Libraries
