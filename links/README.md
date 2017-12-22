@@ -30,3 +30,11 @@
 - Timber [A logger with a small, extensible API which provides utility on top of Android's normal Log class](https://github.com/JakeWharton/timber)
 
 - mapstruct [An annotation processor for generating type-safe bean mappers](https://github.com/mapstruct/mapstruct)
+
+# Samples
+
+## Clean architecture
+
+-  GitFox [Android client for Gitlab](https://gitlab.com/terrakok/gitlab-client). Also can be used as example of "one activity - multiple fragments" navigation architecture 
+
+- Earthquakes [Demo application showing alerts about Earthquakes. Built using Clean Architecture and MVP approach.](https://github.com/Gaket/Earthquakes)
