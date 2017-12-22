@@ -8,6 +8,7 @@
 
 - [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
 
+- [Using DiffUtil in Android RecyclerView](https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00)
 
 # Libraries
 
