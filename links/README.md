@@ -10,6 +10,10 @@
 
 - [Using DiffUtil in Android RecyclerView](https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00)
 
+# Architecture
+
+- [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
+
 # Libraries
 
 - Retrofit [Type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
