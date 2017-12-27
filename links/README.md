@@ -10,6 +10,8 @@
 
 - [Using DiffUtil in Android RecyclerView](https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00)
 
+- [Best practices for Deeplinking in Android](https://proandroiddev.com/best-practices-for-deeplinking-in-android-1dc1ea060c0c)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
