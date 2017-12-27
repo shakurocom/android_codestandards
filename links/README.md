@@ -40,6 +40,8 @@
 
 # Samples
 
+- [Demo - Simple approach for implementation complex lists, based on RecyclerView.](https://github.com/MaksTuev/EasyAdapter)
+
 ## Clean architecture
 
 -  GitFox [Android client for Gitlab](https://gitlab.com/terrakok/gitlab-client). Also can be used as example of "one activity - multiple fragments" navigation architecture 
