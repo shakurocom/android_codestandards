@@ -30,6 +30,8 @@
 
 - Glide [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
 
+- LeakCanary [A memory leak detection library for Android and Java.](https://github.com/square/leakcanary)
+
 - PermissionsDispatcher [Simple annotation-based API to handle runtime permissions](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 
 - Fotoapparat [Making Camera for Android more friendly](https://github.com/Fotoapparat/Fotoapparat)
