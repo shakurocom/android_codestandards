@@ -30,6 +30,10 @@
 
 - Glide [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
 
+- PermissionsDispatcher [Simple annotation-based API to handle runtime permissions](https://github.com/permissions-dispatcher/PermissionsDispatcher)
+
+- Fotoapparat [Making Camera for Android more friendly](https://github.com/Fotoapparat/Fotoapparat)
+
 - ReactiveNetwork [Android library listening network connection state and Internet connectivity with RxJava Observables](https://github.com/pwittchen/ReactiveNetwork)
 
 - Calligraphy [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)
