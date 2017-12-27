@@ -34,6 +34,8 @@
 
 - LeakCanary [A memory leak detection library for Android and Java.](https://github.com/square/leakcanary)
 
+- Сrashlytics [The most powerful, yet lightest weight crash reporting solution.](https://fabric.io/kits/android/crashlytics)
+
 - PermissionsDispatcher [Simple annotation-based API to handle runtime permissions](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 
 - Fotoapparat [Making Camera for Android more friendly](https://github.com/Fotoapparat/Fotoapparat)
