@@ -43,3 +43,5 @@
 -  GitFox [Android client for Gitlab](https://gitlab.com/terrakok/gitlab-client). Also can be used as example of "one activity - multiple fragments" navigation architecture 
 
 - Earthquakes [Demo application showing alerts about Earthquakes. Built using Clean Architecture and MVP approach.](https://github.com/Gaket/Earthquakes)
+
+- ConductorMVP [Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes ](https://github.com/jshvarts/ConductorMVP)
