@@ -40,6 +40,8 @@
 
 - Timber [A logger with a small, extensible API which provides utility on top of Android's normal Log class](https://github.com/JakeWharton/timber)
 
+- MapMe [Android library for working with Maps](https://github.com/TradeMe/MapMe)
+
 - mapstruct [An annotation processor for generating type-safe bean mappers](https://github.com/mapstruct/mapstruct)
 
 # Samples
