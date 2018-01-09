@@ -12,6 +12,8 @@
 
 - [Best practices for Deeplinking in Android](https://proandroiddev.com/best-practices-for-deeplinking-in-android-1dc1ea060c0c)
 
+- [Android process death — and the (big) implications for your app](https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
