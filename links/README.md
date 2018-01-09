@@ -66,6 +66,3 @@
 
 - ConductorMVP [Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes ](https://github.com/jshvarts/ConductorMVP)
 
-# Offtopic
-
-- [Why we are not cross-platform developers](https://android.jlelse.eu/why-we-are-not-cross-platform-developers-fd7ef70e976d)
