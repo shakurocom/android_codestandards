@@ -65,3 +65,7 @@
 - Earthquakes [Demo application showing alerts about Earthquakes. Built using Clean Architecture and MVP approach.](https://github.com/Gaket/Earthquakes)
 
 - ConductorMVP [Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes ](https://github.com/jshvarts/ConductorMVP)
+
+# Offtopic
+
+- [Why we are not cross-platform developers](https://android.jlelse.eu/why-we-are-not-cross-platform-developers-fd7ef70e976d)
