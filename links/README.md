@@ -14,6 +14,8 @@
 
 - [Android process death — and the (big) implications for your app](https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb)
 
+- [Become an Android Painter - how to create custom views](https://android.jlelse.eu/become-an-android-painter-aadf91cec9d4)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
