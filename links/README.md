@@ -70,3 +70,6 @@
 
 - ConductorMVP [Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes ](https://github.com/jshvarts/ConductorMVP)
 
+# Tools and applications
+
+- Developer Assistant [A powerful debugging app for Android.](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)
