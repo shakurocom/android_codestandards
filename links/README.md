@@ -73,3 +73,5 @@
 # Tools and applications
 
 - Developer Assistant [A powerful debugging app for Android.](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)
+
+- An anti-bikeshedding [Kotlin linter](https://github.com/shyiko/ktlint) with built-in formatter
