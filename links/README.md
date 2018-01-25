@@ -22,7 +22,7 @@
 
 # Security
 
-- App security (solutions and best practicies). [The Open Web Application Security Project (OWASP)](https://www.owasp.org)
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) and it's [The Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg)
 
 - A collection of android security related resources [android-security-awesome
 ](https://github.com/ashishb/android-security-awesome)
