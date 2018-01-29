@@ -16,6 +16,8 @@
 
 - [Become an Android Painter - how to create custom views](https://android.jlelse.eu/become-an-android-painter-aadf91cec9d4)
 
+- [Tool Time - mocking images and texts for layout preview](https://blog.stylingandroid.com/tool-time-part-1-2/)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
