@@ -67,7 +67,8 @@
 
 # Tests
 
-- MockWebServer [A scriptable web server for testing HTTP clients](https://github.com/square/okhttp/tree/master/mockwebserver) and addition to it RESTMock [REST API mocking](https://github.com/andrzejchm/RESTMock)
+- MockWebServer [A scriptable web server for testing HTTP clients](https://github.com/square/okhttp/tree/master/mockwebserver) 
+- RESTMock [REST API mocking - addition to MockWebServer](https://github.com/andrzejchm/RESTMock)
 
 
 # Samples
