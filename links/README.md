@@ -65,6 +65,11 @@
 
 - ThreeTenABP [An adaptation of the JSR-310 backport for Android (replacement for JodaTime)](https://github.com/JakeWharton/ThreeTenABP)
 
+# Tests
+
+- MockWebServer [A scriptable web server for testing HTTP clients](https://github.com/square/okhttp/tree/master/mockwebserver) and addition to it RESTMock [REST API mocking](https://github.com/andrzejchm/RESTMock)
+
+
 # Samples
 
 - [Demo - Simple approach for implementation complex lists, based on RecyclerView.](https://github.com/MaksTuev/EasyAdapter)
