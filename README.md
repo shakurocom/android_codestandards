@@ -135,7 +135,7 @@ named based on the main selector (`button_order` in the example) with the states
 
 
 #### Layout files
-Layout file names should be prefixed with the section the source code will be used by _without_ prefixing
+Layout file names should be prefixed with the section the source code will be used by _with_ prefixing
 the Android component name. e.g.
 
 | Component        | Class Name             | Layout Name                  |
