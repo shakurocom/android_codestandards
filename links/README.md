@@ -73,7 +73,7 @@
 
 - MockWebServer [A scriptable web server for testing HTTP clients](https://github.com/square/okhttp/tree/master/mockwebserver) 
 - RESTMock [REST API mocking - addition to MockWebServer](https://github.com/andrzejchm/RESTMock)
-
+- [Practice of writing tests. Lecture from Yandex](https://habrahabr.ru/company/yandex/blog/346186/)
 
 # Samples
 
