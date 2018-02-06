@@ -18,6 +18,10 @@
 
 - [Tool Time - mocking images and texts for layout preview](https://blog.stylingandroid.com/tool-time-part-1-2/)
 
+- [Building Android Apps — 30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9)
+
+- [Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
