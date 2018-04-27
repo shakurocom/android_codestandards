@@ -2,6 +2,8 @@
 
 - Googlesamples [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
 
+- Material components doc [single list of available material components and samples of their usage](https://materialdoc.com/)
+
 - [Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
 
 - awesome-android-ui [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
