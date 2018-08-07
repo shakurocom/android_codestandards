@@ -24,6 +24,8 @@
 
 - [Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3)
 
+- [Introduction to MotionLayout](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
+
 # Architecture
 
 - [Android Clean Architecture Book](https://github.com/AndroidArchitecture/AndroidArchitectureBook)
