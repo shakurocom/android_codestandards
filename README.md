@@ -219,3 +219,9 @@ Attributes should follow the auto ordering that Android Studio enforces; in gene
 5. Non-`android` namespace items (e.g. `app`) sorted alphabetically
 6. `tools` namespace items sorted alphabetically
 
+## Give it a try and reach us
+
+Explore our expertise in <a href="https://shakuro.com/services/native-mobile-development/?utm_source=github&utm_medium=repository&utm_campaign=android-codestand">Native Mobile Development</a> and <a href="https://shakuro.com/services/ios-dev/?utm_source=github&utm_medium=repository&utm_campaign=android-codestand">iOS Development</a>.</p>
+
+If you need professional assistance with your mobile or web project, feel free to <a href="https://shakuro.com/get-in-touch/?utm_source=github&utm_medium=repository&utm_campaign=android-codestand">contact our team</a>
+
